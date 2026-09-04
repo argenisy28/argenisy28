@@ -11,6 +11,7 @@ My current focus is developing my skills in **embedded systems, cybersecurity, I
 🎓 **Computer Engineering Student**
 **Polytechnic University of Puerto Rico** | San Juan, PR
 Expected Graduation: **May 2027**
+GPA: 3.4
 
 🔧 Currently working on projects involving:
 
@@ -25,7 +26,7 @@ Expected Graduation: **May 2027**
 
 ## 🚀 Featured Projects
 
-### 🅿️ Smart Parking System — Capstone Project | In Progress - Expected by February 2027
+### 🅿️ Smart Spot — Capstone Project | In Progress - Expected Completion: February 2027
 
 Designing a smart parking system involving **hardware-software integration, authentication, access control, and parking management**.
 
