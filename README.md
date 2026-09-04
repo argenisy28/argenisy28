@@ -25,14 +25,14 @@ Expected Graduation: **May 2027**
 
 ## 🚀 Featured Projects
 
-### 🅿️ Smart Parking System — Capstone Project | In Progress
+### 🅿️ Smart Parking System — Capstone Project | In Progress - Expected by February 2027
 
 Designing a smart parking system involving **hardware-software integration, authentication, access control, and parking management**.
 
 **Focus Areas:**
 
 * Embedded Systems
-* RFID / QR Access Control
+* RFID Access Control
 * Authentication & Authorization
 * Sensors & Hardware Integration
 * Software Development
@@ -40,7 +40,7 @@ Designing a smart parking system involving **hardware-software integration, auth
 
 ---
 
-### 🥤 Embedded Vending Machine — TM4C123 | March 2026 - May 2026
+### 🥤 Embedded Systems Vending Machine — TM4C123 | March 2026 - May 2026
 
 Developed an embedded vending machine system using the **Tiva C TM4C123 microcontroller**.
 
