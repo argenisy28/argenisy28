@@ -126,4 +126,3 @@ I'm currently pursuing opportunities in:
 * ⚙️ Embedded Systems
 * 💻 Software Engineering
 * 🌐 Networking
-* 🛠️ Computer Engineering
