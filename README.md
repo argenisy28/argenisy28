@@ -2,7 +2,7 @@
 
 I'm a **Computer Engineering student at the Polytechnic University of Puerto Rico**, graduating in **May 2027**. I'm interested in building secure, reliable systems that combine **software, hardware, networking, and cybersecurity**.
 
-My current focus is developing my skills in **embedded systems, cybersecurity, IT infrastructure, software development, and hardware-software integration**.
+My current focus is developing my skills in **software engineering, IT infrastructure, cybersecurity, software development, and hardware-software integration**.
 
 ---
 
