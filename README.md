@@ -1,4 +1,4 @@
-# Hi, I'm Argenis Vélez 👋
+# Hi, I'm Argenis Vélez 
 
 I'm a **Computer Engineering student at the Polytechnic University of Puerto Rico**, currently expected to graduate in **May 2027**.
 
