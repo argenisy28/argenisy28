@@ -319,10 +319,8 @@ I'm especially interested in **internships, co-ops, and entry-level opportunitie
 
 # 📫 Connect With Me
 
-- **GitHub:** [argenisy28](https://github.com/argenisy28)
 - **LinkedIn:** https://www.linkedin.com/in/argenis-y-v%C3%A9lez-alvarez-674530389/
 - **Email:** argenisy28@gmail.com
 
 ---
 
-> Always learning, building, debugging, and improving.
