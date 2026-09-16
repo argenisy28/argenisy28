@@ -1,326 +1,141 @@
-# Hi, I'm Argenis Vélez 
+# Hi, I'm Argenis Vélez
 
-I'm a **Computer Engineering student at the Polytechnic University of Puerto Rico**, currently expected to graduate in **May 2027**.
+I'm a **Computer Engineering student at the Polytechnic University of Puerto Rico**, graduating in **May 2027**, with interests in **Software Engineering, Cybersecurity, IT Infrastructure, Networking, and Cloud Technologies**.
 
-I'm interested in building secure and reliable systems across **software engineering, cybersecurity, IT infrastructure, networking, databases, and hardware-software integration**.
-
-My current focus is strengthening my skills through hands-on projects involving full-stack development, backend APIs, cybersecurity, embedded systems, computer architecture, and system design.
+I enjoy building projects that combine software, systems, and hardware while continuously developing practical skills outside the classroom.
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 Featured Projects
 
-🎓 **Computer Engineering Student**  
-**Polytechnic University of Puerto Rico** | San Juan, Puerto Rico  
-Expected Graduation: **May 2027**
+### 🏋️ Adaptix — Personalized Workout Application
+**React • TypeScript • Vite • FastAPI • PostgreSQL • Python • pytest**
 
-🔧 Areas I'm currently focused on:
+Adaptix is a full-stack workout application that generates personalized training programs based on a user's goals, experience level, training frequency, and available equipment.
 
-- Software Engineering
-- Full-Stack Development
-- Backend Development
-- Cybersecurity
-- IT Infrastructure
-- Networking
-- Database Systems
-- Embedded Systems
-- Computer Architecture
-- Hardware-Software Integration
+**Current features:**
+- Personalized workout program generation
+- React + TypeScript frontend
+- FastAPI REST API backend
+- PostgreSQL database integration
+- Create, save, retrieve, and delete workout programs
+- Persistent workout data
+- Saved-program management
+- Loading and feedback states
+- Automated backend testing with **24 passing tests**
+- Separate test database for safer backend testing
 
----
-
-# 🚀 Featured Projects
-
-## 🏋️ Adaptix — Personalized Training App
-
-A full-stack fitness application that generates and stores personalized workout programs based on a user's goals, experience level, weekly training frequency, and available equipment.
-
-### Technologies
-- React
-- TypeScript
-- Vite
-- Python
-- FastAPI
-- PostgreSQL
-- psycopg2
-- REST APIs
-- pytest
-- Git / GitHub
-
-### Features
-- Personalized workout split generation
-- Strength, muscle gain, weight loss, and general fitness goals
-- Beginner, intermediate, and advanced programming
-- Equipment-specific exercise selection
-- Automatic workout generation
-- User profile creation and retrieval
-- Persistent PostgreSQL workout storage
-- Automatic loading of saved programs
-- Saved-program deletion and refresh
-- Responsive React interface
-- Success notifications
-- Automated backend and database testing
-- Separate development and testing databases
-
-🔗 **Repository:** [Adaptix](https://github.com/argenisy28/Adaptix)
-
-> Currently in active development. Workout progress tracking and training history are planned as upcoming features.
+The project has helped me gain hands-on experience with full-stack architecture, REST APIs, relational databases, testing, Git workflows, and frontend/backend integration.
 
 ---
 
-## 🚗 Smart Parking System — Capstone Design
+### 🖥️ Windows Active Directory Home Lab
+**Windows Server 2025 • Active Directory • DNS • Group Policy • PowerShell • Windows 11 • VirtualBox**
 
-A hardware-software integrated smart parking system designed to improve parking access, space management, and user interaction.
+Built a virtual enterprise-style Windows environment to gain practical experience with system administration and IT infrastructure.
 
-### Project Focus
-- Parking-space monitoring
+**Implemented:**
+- Deployed a Windows Server 2025 domain controller
+- Created the `argenislab.test` Active Directory domain
+- Configured AD DS and DNS
+- Created organizational units, domain users, and security groups
+- Joined a Windows 11 Enterprise client to the domain
+- Configured static IPv4 addressing and internal DNS
+- Created and deployed Group Policy to domain computers
+- Used PowerShell to query and manage Active Directory
+- Configured SMB file sharing and NTFS permissions
+- Implemented group-based access using the `IT-Support` security group
+- Tested authorized and unauthorized resource access
+- Troubleshot DNS, APIPA addressing, Group Policy scope, and network configuration
+
+This project gave me hands-on experience with technologies commonly used in **IT support, systems administration, infrastructure engineering, and cybersecurity**.
+
+---
+
+### 🅿️ Smart Parking System — Capstone Design
+**Embedded Systems • Hardware/Software Integration • Database Design • Access Control**
+
+Developing a Smart Parking System as part of my Computer Engineering capstone project.
+
+The system is designed to improve parking management through automated vehicle/access control, parking-space monitoring, and software integration.
+
+**Areas of development include:**
+- Embedded hardware integration
+- Parking availability monitoring
 - User authentication and authorization
-- Access-control design
-- Hardware-software integration
-- System architecture
-- Requirements analysis
-- Embedded and software components
-
-Developed as part of my **Computer Engineering Capstone Design** coursework.
+- Database-backed system design
+- Access-control technologies
+- Hardware/software communication
 
 ---
 
-## 🏠 Real Estate Manager
+### 🏠 Real Estate Manager
+**Python • PyQt5 • MySQL**
 
-Contributor to a desktop real-estate management application designed to organize property and real-estate information.
+Contributed to a desktop real-estate management application built with Python, PyQt5, and MySQL.
 
-### Technologies
-- Python
-- PyQt5
-- MySQL
-- Git
-- GitHub
-
-Worked collaboratively using GitHub, including repository cloning, code/documentation changes, branches, commits, and pull requests.
-
----
-
-## 🛡️ Phish Tank — Cybersecurity Capstone
-
-A cybersecurity group project focused on **phishing attacks**, social engineering, attack identification, and user awareness.
-
-Completed as part of **CodePath Intro to Cybersecurity (CYB101)**.
-
-### Topics Covered
-- Phishing analysis
-- Social engineering
-- Network security
-- Linux security
-- Password attacks
-- Vulnerability exploitation
-- Security hardening
-- SIEM and log analysis
-- Incident investigation
-
-### Tools & Environments
-- Kali Linux
-- Linux CLI
-- SSH
-- CyberChef
-- Virtual Machines
-- Networking tools
+Worked with:
+- GUI development
+- Database integration
+- Git and GitHub collaboration
+- Repository documentation
+- Pull request workflows
 
 ---
 
-## 🖥️ MIPS Processor & ALU Design
+## 🛠️ Technical Skills
 
-Computer architecture projects involving the design, implementation, simulation, and verification of processor components using **VHDL**.
+### Programming
+`Python` `C++` `C` `TypeScript` `JavaScript` `SQL` `VHDL`
 
-### Work Includes
-- 1-bit ALU
-- 32-bit N-bit ALU
-- AND / OR / ADD / SUB / SLT operations
-- Program Counter components
-- Instruction Fetch components
-- Behavioral simulation
-- Test benches
-- Digital logic verification
+### Web & Software Development
+`React` `Vite` `FastAPI` `REST APIs` `JSON` `PyQt5`
 
-### Technologies
-- VHDL
-- Xilinx Vivado
-- Xilinx ISE
-- Digital Logic
-- MIPS Architecture
+### Databases
+`PostgreSQL` `MySQL`
 
----
+### Infrastructure & Operating Systems
+`Windows Server` `Windows 10/11` `Linux` `Ubuntu` `Kali Linux`
 
-## 🔌 Embedded Systems Projects
+### Networking & IT
+`Active Directory` `DNS` `Group Policy` `TCP/IP` `SSH` `SMB` `NTFS Permissions` `VirtualBox` `VMware`
 
-Built several hardware-software projects involving microcontrollers, sensors, motors, displays, and low-level programming.
+### Cybersecurity
+`System Hardening` `Network Security` `SIEM Fundamentals` `Suricata` `Phishing Analysis` `Access Control`
 
-### Projects Include
-- Keypad and LCD vending-system interface
-- PWM-controlled DC motor
-- UART serial communication
-- Traffic-light system with servo barrier
-- Seven-segment display integration
-- IR sensor RPM measurement
-- ADC sampling and averaging
-- DC motor fan control
+### DevOps & Tools
+`Git` `GitHub` `Docker` `pytest` `PowerShell` `Azure`
 
-### Technologies
-- C
-- C++
-- Arduino C/C++
-- ARM Thumb Assembly
-- TM4C123
-- Arduino
-- PWM
-- ADC
-- UART
-- GPIO
-- Keil µVision
+### Computer Engineering
+`Embedded Systems` `Digital Logic` `Computer Architecture` `Vivado` `Xilinx ISE`
 
 ---
 
-# 🛠️ Technical Skills
+## 📚 Currently Learning
 
-## Programming Languages
-
-- Python
-- C
-- C++
-- TypeScript
-- JavaScript
-- SQL
-- VHDL
-- ARM Thumb Assembly
-- Arduino C/C++
-
-## Frontend Development
-
-- React
-- TypeScript
-- Vite
-- HTML
-- CSS
-- Responsive UI Design
-
-## Backend & APIs
-
-- FastAPI
-- REST APIs
-- Python backend development
-- JSON
-- CRUD operations
-- CORS
-- Client-server architecture
-
-## Databases
-
-- PostgreSQL
-- MySQL
-- SQL
-- Relational database design
-- JOIN operations
-- Foreign keys
-- Cascading relationships
-- Database persistence
-
-## Cybersecurity
-
-- Linux security fundamentals
-- Kali Linux
-- SSH
-- Phishing analysis
-- Password security
-- Vulnerability assessment
-- Security hardening
-- SIEM fundamentals
-- Log analysis
-- Network security fundamentals
-- Incident investigation
-
-## Embedded & Hardware
-
-- Microcontrollers
-- GPIO
-- PWM
-- ADC
-- UART
-- Sensors
-- Motors
-- LCD displays
-- Digital logic
-- Computer architecture
-- Hardware-software integration
-
-## Development Tools
-
-- Git
-- GitHub
-- Visual Studio Code
-- Linux
-- Ubuntu
-- Docker
-- VMware
-- VirtualBox
-- PostgreSQL / pgAdmin
-- Xilinx Vivado
-- Xilinx ISE
-- Keil µVision
-- Arduino IDE
-- MATLAB
+- Cybersecurity and defensive security
+- Windows Server administration
+- Active Directory and enterprise infrastructure
+- Microsoft Azure
+- PowerShell automation
+- Networking and system administration
+- Full-stack software development
 
 ---
 
-# 🧪 Testing & Development Practices
+## 🎯 Current Goals
 
-- Automated testing with pytest
-- API testing
-- Database integration testing
-- Separate development and test databases
-- Git-based version control
-- GitHub pull-request workflow
-- Incremental feature development
-- Debugging and troubleshooting
-- Relational database design
-- REST API development
+I'm currently focused on:
+
+- Building practical **IT and cybersecurity home labs**
+- Expanding **Adaptix** into a complete full-stack application
+- Completing my **Smart Parking System** capstone
+- Building stronger cloud, infrastructure, and networking skills
+- Preparing for entry-level opportunities in **IT, Cybersecurity, Infrastructure, and Software Engineering**
 
 ---
 
-# 📚 Currently Learning
+## 📫 Connect With Me
 
-- Advanced Python development
-- Full-stack application development
-- Cybersecurity
-- Network security
-- Cloud and infrastructure security
-- Active Directory fundamentals
-- Software engineering practices
-- API design
-- Database architecture
-- System design
-
----
-
-# 🎯 Career Interests
-
-I'm currently interested in opportunities involving:
-
-- Software Engineering
-- Cybersecurity
-- IT / Technical Support
-- Infrastructure Engineering
-- Network Engineering
-- Backend Development
-- Cloud / Systems Engineering
-- Computer Engineering
-
-I'm especially interested in **internships, co-ops, and entry-level opportunities** where I can apply my technical skills while continuing to grow as an engineer.
-
----
-
-# 📫 Connect With Me
-
-- **LinkedIn:** https://www.linkedin.com/in/argenis-y-v%C3%A9lez-alvarez-674530389/
-- **Email:** argenisy28@gmail.com
-
----
-
+- 💼 LinkedIn: [Add your LinkedIn URL]
+- 💻 GitHub: [@argenisy28](https://github.com/argenisy28)
