@@ -137,5 +137,5 @@ I'm currently focused on:
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: [Add your LinkedIn URL]
-- 💻 GitHub: [@argenisy28](https://github.com/argenisy28)
+- LinkedIn: https://www.linkedin.com/in/argenis-y-v%C3%A9lez-alvarez-674530389/
+- email: argenisy28@gmail.com
