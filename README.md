@@ -38,9 +38,6 @@ A full-stack, serverless IT operations platform built on AWS for managing suppor
 **Production:**  
 https://main.d34b9fsygbqf43.amplifyapp.com
 
-**Repository:**  
-https://github.com/argenisy28/nubora
-
 ---
 
 ### 🛡️ Windows Active Directory Cybersecurity Home Lab
