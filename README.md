@@ -4,7 +4,7 @@
 
 I'm a Computer Engineering student at the Polytechnic University of Puerto Rico, graduating in **May 2027**.
 
-I enjoy building projects that combine software development, cloud infrastructure, cybersecurity, networking, and hardware/software integration. I'm especially interested in opportunities involving **Cybersecurity, Cloud Engineering, IT Infrastructure, and Software Engineering**.
+I enjoy building projects that combine software development, cloud infrastructure, cybersecurity, networking, and hardware/software integration. I'm especially interested in opportunities involving **Software Engineering, Cloud Engineering, IT Infrastructure, and Cybersecurity**.
 
 ---
 
