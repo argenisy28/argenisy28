@@ -72,6 +72,8 @@ A virtual enterprise-style Active Directory environment designed to practice Win
 
 **Next direction:** expanding the environment into a cybersecurity monitoring and attack-detection lab.
 
+**Repo:** https://github.com/argenisy28/windows-active-directory-home-lab
+
 ---
 
 ### 🏋️ Adaptix — Personalized Workout Application
@@ -89,6 +91,8 @@ A full-stack fitness application for generating and managing personalized workou
 - Persistent lb/kg preference with mixed-unit history conversion
 - FastAPI REST backend with PostgreSQL and a separate test database
 - **29 passing pytest tests**
+
+**Repo:** https://github.com/argenisy28/Adaptix
 
 ---
 
@@ -123,6 +127,8 @@ Desktop property-management application developed collaboratively using Python.
 - MySQL-backed persistence
 - Collaborative Git/GitHub workflow
 - Pull request contributions
+
+**Repo:** https://github.com/jcas12/Real-Estate-Manager
 
 ---
 
