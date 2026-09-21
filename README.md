@@ -81,15 +81,14 @@ A full-stack fitness application for generating and managing personalized workou
 **Technologies:** React, TypeScript, FastAPI, Python, PostgreSQL, REST APIs, pytest
 
 **Highlights:**
-- Personalized workout generation
-- Workout persistence and retrieval
-- REST API backend
-- Responsive React interface
-- PostgreSQL database integration
-- Separate test database
-- Automated backend testing
-- **24 passing pytest tests**
-- Structured frontend/backend architecture
+
+- Personalized workout generation from goal, experience, weekly availability, and equipment
+- Saved programs with workout session tracking and set-by-set logging
+- Personal record detection with estimated 1RM and per-exercise progress charts
+- Workout history and training dashboard
+- Persistent lb/kg preference with mixed-unit history conversion
+- FastAPI REST backend with PostgreSQL and a separate test database
+- **29 passing pytest tests**
 
 ---
 
@@ -343,6 +342,10 @@ Completed hands-on cybersecurity coursework covering:
 
 Final group project: **Phish Tank**, focused on phishing attacks and security awareness.
 
+### PUPR Undergraduate Certificate in Cybersecurity (UCCySec)
+
+### Google Cybersecurity Certificate — in progress
+
 ---
 
 ## 📚 Currently Learning
@@ -395,5 +398,5 @@ Current and upcoming project work includes:
 
 ## 📫 Connect With Me
 
-email: argenisy28@gmaail.com
+email: argenisy28@gmail.com
 linkedin: https://www.linkedin.com/in/argenis-y-v%C3%A9lez-alvarez-674530389/
