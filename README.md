@@ -1,408 +1,58 @@
 # Hi, I'm Argenis Vélez 
 
-### Computer Engineering Student | Software Engineering | IT | Cybersecurity
+Computer Engineering student at the **Polytechnic University of Puerto Rico** (expected May 2027) and **Computer Engineering Intern at [ITERRA Solutions](https://iterrasolutions.com/)**, where I work detection and sensing systems.
 
-I'm a Computer Engineering student at the Polytechnic University of Puerto Rico, graduating in **May 2027**.
+I like building things where hardware and software meet: embedded devices, edge systems, and the cloud and web software around them.
 
-I enjoy building projects that combine software development, cloud infrastructure, cybersecurity, networking, and hardware/software integration. I'm especially interested in opportunities involving **Software Engineering, Cloud Engineering, IT Infrastructure, and Cybersecurity**.
+**Interests:** embedded systems  · software testing & CI/CD · AI/ML & computer vision · cloud & software engineering · cybersecurity
+
+---
+
+## 💼 Experience
+
+**Computer Engineering Intern, ITERRA Solutions** · *November 2026 – Present*
+
+- Flash and validate **Zephyr RTOS** firmware on an **nRF52840** BLE radio module over SWD, and test it on an **NVIDIA Jetson AGX Orin** edge system.
+- Write Python and Bash test tooling for before/after hardware tests. One amplifier change measured **3.6–5x more frames decoded at range**, with a soak test and zero errors.
+- Built a reusable **GitHub Actions** license-compliance check (SBOM + allow-list) and rolled it out to 6 repositories after code review.
+- Audit dependencies of a **C++/CUDA** signal-processing service on embedded Linux, and write traceability documentation for shipped data.
 
 ---
 
 ## 🚀 Featured Projects
 
-### ☁️ Nubora — Secure Cloud-Native IT Operations Platform
+| Project | What it is | Stack |
+|---|---|---|
+| **Smart Spot** *(capstone, in progress)* | IoT smart-parking system. Ultrasonic sensors detect occupied spaces, an ESP32 reports them, and a web dashboard handles availability, reservations and QR-code access. I lead the 4-person team as Project Manager. | ESP32 / ESP32-S3, ATtiny804, RS-485, HC-SR04, Python, REST, MySQL |
+| [**Recycling Image Classifier**](https://github.com/argenisy28/recycling-classifier) | Six-class recycling classifier using MobileNetV3 transfer learning, with a Streamlit app. **81.6% test accuracy, 0.788 macro F1** on TrashNet, plus an honest failure analysis on everyday photos. | Python, PyTorch, Torchvision, scikit-learn, Streamlit |
+| [**Nubora**](https://github.com/argenisy28/nubora) | Serverless IT operations platform for support tickets and hardware assets, with Cognito JWT auth and role-based access (Admin, Technician, Viewer). | React, TypeScript, Python Lambda, API Gateway, DynamoDB, Amplify |
+| [**Adaptix**](https://github.com/argenisy28/Adaptix) | Full-stack app that generates personalized workout programs from a user's goals, experience and equipment. **29 pytest tests** against a dedicated PostgreSQL test database. | React, TypeScript, FastAPI, PostgreSQL, pytest |
+| [**Windows AD Home Lab**](https://github.com/argenisy28/windows-active-directory-home-lab) | Windows Server 2025 domain controller with a Windows 11 client: DNS, Group Policy, SMB/NTFS permissions, and a troubleshooting guide. | Windows Server, AD DS, PowerShell, VirtualBox |
 
-A full-stack, serverless IT operations platform built on AWS for managing support tickets and organizational hardware assets.
-
-**Technologies:** React, TypeScript, Vite, Python, AWS Lambda, API Gateway, DynamoDB, Amazon Cognito, IAM, AWS Amplify, GitHub
-
-**Highlights:**
-- Full CRUD ticket and asset management
-- Amazon Cognito authentication
-- JWT-protected API endpoints
-- Role-Based Access Control with:
-  - Admins
-  - Technicians
-  - Viewers
-- Serverless Python Lambda backend
-- DynamoDB persistence
-- Ticket assignment and status workflows
-- Search and multi-filter functionality
-- Operational analytics dashboard
-- API health monitoring
-- Production CORS configuration
-- HTTPS deployment with AWS Amplify
-- Automatic deployment from GitHub `main`
-- Least-privilege IAM permissions
-
-**Production:**  
-https://main.d34b9fsygbqf43.amplifyapp.com
+**Other work:** Real Estate Manager (Python/PyQt5 desktop app with MySQL) · Phish Tank (phishing-awareness project, CodePath CYB101) · VHDL digital design (ALUs, MIPS components) · microcontroller projects
 
 ---
 
-### 🛡️ Windows Active Directory Cybersecurity Home Lab
+## 🛠️ Skills
 
-A virtual enterprise-style Active Directory environment designed to practice Windows administration, networking, identity management, security policy, troubleshooting, and cybersecurity concepts.
-
-**Technologies:** Windows Server 2025, Windows 11, Active Directory Domain Services, DNS, Group Policy, SMB, PowerShell, VirtualBox
-
-**Environment:**
-- Windows Server domain controller
-- Windows 11 domain client
-- Isolated `10.10.10.0/24` lab network
-- `argenislab.test` Active Directory domain
-
-**Implemented:**
-- Organizational Units
-- Domain users
-- Security groups
-- Domain joining
-- Group Policy security baselines
-- SMB share permissions
-- User/group access control
-- DNS configuration
-- Network troubleshooting
-
-**Tools used for troubleshooting:**
-- PowerShell
-- `ping`
-- `nslookup`
-- `netsh`
-- `dcdiag`
-
-**Next direction:** expanding the environment into a cybersecurity monitoring and attack-detection lab.
-
-**Repo:** https://github.com/argenisy28/windows-active-directory-home-lab
+- **Languages:** C, C++, Python, TypeScript, JavaScript, SQL, Bash, VHDL
+- **Embedded & hardware:** Zephyr RTOS, nRF52840 (BLE), ESP32, SWD flashing (J-Link), NVIDIA Jetson, embedded Linux
+- **Testing & DevOps:** pytest, unit/integration testing, Git/GitHub, GitHub Actions, Docker, SBOM tooling (syft)
+- **Web & cloud:** React, FastAPI, REST APIs, PostgreSQL, MySQL, AWS (Lambda, API Gateway, DynamoDB, Cognito, Amplify)
+- **AI/ML:** PyTorch, Torchvision, scikit-learn, transfer learning, model evaluation
+- **Systems & security:** Linux, Windows Server, Active Directory, PowerShell
 
 ---
 
-### 🏋️ Adaptix — Personalized Workout Application
+## 🎓 Education & Certifications
 
-A full-stack fitness application for generating and managing personalized workout programs.
-
-**Technologies:** React, TypeScript, FastAPI, Python, PostgreSQL, REST APIs, pytest
-
-**Highlights:**
-
-- Personalized workout generation from goal, experience, weekly availability, and equipment
-- Saved programs with workout session tracking and set-by-set logging
-- Personal record detection with estimated 1RM and per-exercise progress charts
-- Workout history and training dashboard
-- Persistent lb/kg preference with mixed-unit history conversion
-- FastAPI REST backend with PostgreSQL and a separate test database
-- **29 passing pytest tests**
-
-**Repo:** https://github.com/argenisy28/Adaptix
+- **B.S. Computer Engineering**, Polytechnic University of Puerto Rico · expected May 2027
+- Undergraduate Certificate in Cybersecurity, PUPR (2026)
+- Intro to Cybersecurity (CYB101), CodePath (2026)
+- Google Cybersecurity Professional Certificate (in progress)
 
 ---
 
-### 🅿️ Smart Spot — Smart Parking System
+## 📫 Contact
 
-Senior Capstone project focused on integrating embedded hardware, authentication, and software into a smart parking management system.
-
-**Planned Technologies:** ESP32, RFID/QR authentication, sensors, LCD, REST APIs, web dashboard, database integration
-
-**Planned Features:**
-- Parking-space availability detection
-- Controlled parking access
-- User authentication and authorization
-- RFID/QR-based access control
-- Real-time parking information
-- Hardware/software integration
-- Administrative dashboard
-
-Currently in the **Capstone Design documentation and proposal phase**, with implementation planned for later project phases.
-
----
-
-### 🏠 Real Estate Manager
-
-Desktop property-management application developed collaboratively using Python.
-
-**Technologies:** Python, PyQt5, MySQL, Git, GitHub
-
-**Features:**
-- Property data management
-- Graphical desktop interface
-- MySQL-backed persistence
-- Collaborative Git/GitHub workflow
-- Pull request contributions
-
-**Repo:** https://github.com/jcas12/Real-Estate-Manager
-
----
-
-### 🎣 Phish Tank — Cybersecurity Project
-
-Cybersecurity project focused on phishing attacks and social-engineering awareness.
-
-Developed as part of the **CodePath CYB101 Intro to Cybersecurity** program.
-
-**Topics explored:**
-- Phishing attack techniques
-- Social engineering
-- Email-based threats
-- Attack identification
-- Security awareness
-- Defensive recommendations
-
----
-
-### 🖥️ Computer Architecture & Digital Design
-
-Hands-on hardware-design projects involving processor architecture and digital logic.
-
-**Technologies:** VHDL, Xilinx Vivado, Xilinx ISE
-
-Projects include:
-- 1-bit ALU
-- 32-bit N-bit ALU
-- MIPS processor components
-- Program Counter
-- Instruction Fetch components
-- Behavioral simulation
-- Test benches
-- Digital logic verification
-
----
-
-### ⚙️ Embedded Systems Projects
-
-Embedded hardware/software projects using microcontrollers and low-level programming.
-
-**Technologies:** C, C++, Arduino, ARM Thumb Assembly, TM4C123, Keil µVision
-
-Projects include:
-- Embedded vending machine
-- Keypad and LCD interfaces
-- Traffic-light control systems
-- Servo-controlled barriers
-- IR RPM sensing
-- DC motor control
-- PWM
-- ADC
-- UART
-- GPIO
-
----
-
-## 🧰 Technical Skills
-
-### Programming Languages
-
-```text
-Python
-C
-C++
-TypeScript
-JavaScript
-SQL
-VHDL
-ARM Thumb Assembly
-Arduino C/C++
-```
-
-### Web & Software Development
-
-```text
-React
-TypeScript
-Vite
-FastAPI
-REST APIs
-PyQt5
-HTML
-CSS
-```
-
-### Cloud & AWS
-
-```text
-AWS Lambda
-Amazon API Gateway
-Amazon DynamoDB
-Amazon Cognito
-AWS IAM
-AWS Amplify Hosting
-AWS CLI
-Serverless Architecture
-JWT Authentication
-Role-Based Access Control
-```
-
-### Cybersecurity
-
-```text
-Kali Linux
-Linux
-Active Directory
-Group Policy
-Network Security
-IAM
-JWT
-RBAC
-Suricata
-CyberChef
-SSH
-Phishing Analysis
-Security Hardening
-```
-
-### Databases
-
-```text
-PostgreSQL
-MySQL
-SQL
-Amazon DynamoDB
-```
-
-### Testing & Development
-
-```text
-pytest
-Git
-GitHub
-GitHub Pull Requests
-Virtual Environments
-Separate Test Databases
-API Testing
-Debugging
-```
-
-### Infrastructure & Virtualization
-
-```text
-Windows Server
-Active Directory Domain Services
-DNS
-SMB
-PowerShell
-Docker
-VMware
-VirtualBox
-Linux
-```
-
-### Computer Engineering
-
-```text
-VHDL
-Xilinx Vivado
-Xilinx ISE
-TM4C123
-ARM Assembly
-GPIO
-UART
-PWM
-ADC
-Microcontrollers
-Digital Logic
-Computer Architecture
-```
-
----
-
-## 🎓 Education
-
-**B.S. Computer Engineering**  
-Polytechnic University of Puerto Rico
-
-Expected Graduation: **May 2027**
-
-Relevant areas of study include:
-
-```text
-Computer Architecture
-Operating Systems
-Microprocessors
-Embedded Systems
-Programming
-Cybersecurity
-Digital Logic
-Databases
-Networking
-Software Development
-```
-
----
-
-## 🛡️ Cybersecurity Training
-
-### CodePath CYB101 — Intro to Cybersecurity
-
-Completed hands-on cybersecurity coursework covering:
-
-- Linux
-- Networking
-- SSH
-- Password security
-- FTP vulnerabilities
-- Exploitation fundamentals
-- Encoding and CyberChef
-- Phishing
-- Ransomware
-- Security hardening
-- SIEM concepts
-- Logs and security monitoring
-
-Final group project: **Phish Tank**, focused on phishing attacks and security awareness.
-
-### PUPR Undergraduate Certificate in Cybersecurity (UCCySec)
-
-### Google Cybersecurity Certificate — in progress
-
----
-
-## 📚 Currently Learning
-
-I'm continuing to develop skills in:
-
-- Cloud security
-- AWS architecture
-- Security monitoring
-- Active Directory security
-- SIEM and log analysis
-- Infrastructure automation
-- Full-stack development
-- API security
-- DevOps and CI/CD
-- Computer networking
-- AI-assisted cybersecurity
-
----
-
-## 🎯 Career Interests
-
-I'm interested in internships, co-ops, and entry-level opportunities involving:
-
-```text
-Software Engineering
-Cybersecurity
-Cloud Engineering
-IT Infrastructure
-IT Support
-Security Operations
-Systems Engineering
-Network Engineering
-```
-
----
-
-## 🔨 What I'm Building Next
-
-Current and upcoming project work includes:
-
-- Nubora audit logging and activity history
-- Cloud monitoring and observability
-- Advanced Nubora security features
-- Expanded Active Directory cybersecurity lab
-- AI-assisted attack and anomaly detection
-- Smart Spot Capstone implementation
-
----
-
-## 📫 Connect With Me
-
-email: argenisy28@gmail.com
-linkedin: https://www.linkedin.com/in/argenis-y-v%C3%A9lez-alvarez-674530389/
+[LinkedIn](https://www.linkedin.com/in/argenis-y-v%C3%A9lez-alvarez-674530389/) · argenisy28@gmail.com · Puerto Rico · English & Spanish
