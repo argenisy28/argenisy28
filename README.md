@@ -1,6 +1,6 @@
 # Hi, I'm Argenis Vélez 
 
-Computer Engineering student at the **Polytechnic University of Puerto Rico** (expected May 2027) and **Computer Engineering Intern at [ITERRA Solutions](https://iterrasolutions.com/)**, where I work detection and sensing systems.
+Computer Engineering student at the **Polytechnic University of Puerto Rico** (expected May 2027) and **Computer Engineering Intern at [ITERRA Solutions](https://iterrasolutions.com/)**, where I work on Counter-UAS systems. 
 
 I like building things where hardware and software meet: embedded devices, edge systems, and the cloud and web software around them.
 
