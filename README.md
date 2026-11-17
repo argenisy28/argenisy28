@@ -35,7 +35,7 @@ I like building things where hardware and software meet: embedded devices, edge 
 
 ## 🛠️ Skills
 
-- **Languages:** C, C++, Python, TypeScript, JavaScript, SQL, Bash, VHDL
+- **Languages:** C, C++, Python, TypeScript, JavaScript, SQL, VHDL
 - **Embedded & hardware:** Zephyr RTOS, nRF52840 (BLE), ESP32, SWD flashing (J-Link), NVIDIA Jetson, embedded Linux
 - **Testing & DevOps:** pytest, unit/integration testing, Git/GitHub, GitHub Actions, Docker, SBOM tooling (syft)
 - **Web & cloud:** React, FastAPI, REST APIs, PostgreSQL, MySQL, AWS (Lambda, API Gateway, DynamoDB, Cognito, Amplify)
