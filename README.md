@@ -4,7 +4,7 @@ Computer Engineering student at the **Polytechnic University of Puerto Rico** (e
 
 I like building things where hardware and software meet: embedded devices, edge systems, and the cloud and web software around them.
 
-**Interests:** embedded systems  · software testing & CI/CD · AI/ML & computer vision · cloud & software engineering · cybersecurity
+**Interests:** cloud & software engineering ·  AI/ML & computer vision · embedded systems · software testing & CI/CD · cybersecurity
 
 ---
 
